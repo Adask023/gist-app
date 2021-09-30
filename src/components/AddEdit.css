@@ -1,0 +1,13 @@
+.form-wrapper form {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  margin: auto;
+}
+.form-wrapper {
+  display: flex;
+}
+
+.form-title {
+  color: rgb(218, 151, 51);
+}
